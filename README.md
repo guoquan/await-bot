@@ -1,5 +1,10 @@
 # await-bot
 
+Open source communities are always spending days constructing strange project names. This is another stupid example: await-bot works a) in time, b) on time.
+let's say "in time" (occasional events) and "on time" (timed events) are two features of await-bot.
+I will further abbreviate it as `ab`, for the two features itemized by `a` and `b` as above.
+
+What is this?
 I do not know. Just want to play with Web APIs with javascript async / await something that I do not know again.
 
 ## how to
